@@ -8,11 +8,12 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title>Calculo de Consumo de Combustível</title>
+        <link rel="stylesheet" href="css/style.css">
     </head>
     <body>
        <main>
 <div class="painel">
-<h2>INstruções</h2>
+<h2>Instruções</h2>
 <div class="conteudo-painel">
 <p>Esta aplicação tem como finalidade demonstrar os valores que
 					serão gastos com combustível durante uma viagem, com base no
